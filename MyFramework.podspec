@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary      = '测试库程序'
     s.homepage     = "https://github.com/molufang/MyFramework"
     s.license      = 'MIT'
-    s.author       = {'kbo' => 'hefeijinbo@163.com'}
+    s.author       = {'kbo' => 'molufang@163.com'}
     s.source       = { :git => 'https://github.com/molufang/MyFramework.git'}
     s.platform     = :ios
     s.source_files = 'MyFramework/**/*.swift'
