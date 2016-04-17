@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5CECE8A91CA03F7D00551D1C /* MyFramework.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CECE8A81CA03F7D00551D1C /* MyFramework.png */; };
 		5CECE8AB1CA03F9000551D1C /* MyFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CECE8AA1CA03F9000551D1C /* MyFramework.swift */; };
 		5CECE8AD1CA03FCB00551D1C /* MyFramework.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CECE8AC1CA03FCB00551D1C /* MyFramework.storyboard */; };
 		5CECE8AF1CA03FF900551D1C /* MyFramework.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5CECE8AE1CA03FF900551D1C /* MyFramework.xib */; };
 		5CECE8B11CA0401500551D1C /* MyFrameworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CECE8B01CA0401500551D1C /* MyFrameworkViewController.swift */; };
+		5E69FB5D1CC3727A0053FD59 /* MyFramework.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E69FB5C1CC3727A0053FD59 /* MyFramework.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5CECE8991CA03E9200551D1C /* MyFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CECE89E1CA03E9200551D1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5CECE8A81CA03F7D00551D1C /* MyFramework.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MyFramework.png; sourceTree = "<group>"; };
 		5CECE8AA1CA03F9000551D1C /* MyFramework.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFramework.swift; sourceTree = "<group>"; };
 		5CECE8AC1CA03FCB00551D1C /* MyFramework.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MyFramework.storyboard; sourceTree = "<group>"; };
 		5CECE8AE1CA03FF900551D1C /* MyFramework.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyFramework.xib; sourceTree = "<group>"; };
 		5CECE8B01CA0401500551D1C /* MyFrameworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFrameworkViewController.swift; sourceTree = "<group>"; };
+		5E69FB5C1CC3727A0053FD59 /* MyFramework.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MyFramework.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				5CECE89E1CA03E9200551D1C /* Info.plist */,
-				5CECE8A81CA03F7D00551D1C /* MyFramework.png */,
+				5E69FB5C1CC3727A0053FD59 /* MyFramework.png */,
 				5CECE8AA1CA03F9000551D1C /* MyFramework.swift */,
 				5CECE8AC1CA03FCB00551D1C /* MyFramework.storyboard */,
 				5CECE8AE1CA03FF900551D1C /* MyFramework.xib */,
@@ -131,9 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CECE8A91CA03F7D00551D1C /* MyFramework.png in Resources */,
 				5CECE8AD1CA03FCB00551D1C /* MyFramework.storyboard in Resources */,
 				5CECE8AF1CA03FF900551D1C /* MyFramework.xib in Resources */,
+				5E69FB5D1CC3727A0053FD59 /* MyFramework.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

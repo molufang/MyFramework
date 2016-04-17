@@ -3,7 +3,7 @@
 //  MyFramework
 //
 //  Created by bo on 16/3/21.
-//  Copyright © 2016年 huami. All rights reserved.
+//  Copyright © 2016年 mlf. All rights reserved.
 //
 
 import UIKit
